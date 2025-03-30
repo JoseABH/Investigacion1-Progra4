@@ -17,6 +17,7 @@ export function Counter() {
         <button className="px-4 py-2 bg-gray-500 text-white" onClick={reset}>
           Reset
         </button>
+        
       </div>
     </div>
   );
